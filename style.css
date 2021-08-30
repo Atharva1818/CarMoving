@@ -4,6 +4,7 @@
 }
 body{
     overflow: hidden;
+    animation: carMove linear 13s infinite;
 }
 .sky{
     height: 100vh;
