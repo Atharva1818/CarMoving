@@ -2,9 +2,9 @@
     margin: 0;
     padding: 0;
 }
-.body{
+body{
     overflow: hidden;
-    animation: carMove linear .13s infinite;
+    
 }
 .sky{
     height: 100vh;
